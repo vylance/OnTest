@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "5khjffCpLqmnbr2DT9UuHCv5cUe1npJVMZm7gbfpFskT"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_Nk1cxdaZaZ7So1lbka6yN3DkFH6kM9LnVdx",
+  "serviceFee": 3,
+  "currencyOption": "SOL",
+  "name": "OnTest",
+  "logo": "https://collections.mirrorworld.fun/1677255914507-dream_TradingCard (3).jpg"
 }
